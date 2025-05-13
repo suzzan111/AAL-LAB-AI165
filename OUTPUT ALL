@@ -1,0 +1,62 @@
+OUTPUT: 1A
+Enter the number of elements in the array: 12
+array before bubble sort:
+29 58 52 68 56 52 54 59 22 64 42 23 
+
+array after bubble sort:22 23 29 42 52 52 54 56 58 59 64 68 
+Count: 37
+Time taken for bubble sort: 0.000002 seconds
+
+OUTPUT: 1B
+Enter the total elements: 7
+Enter the elements to sort: 2
+4
+8
+5
+7
+9
+3
+Sorted array: 2 3 4 5 7 8 9 
+
+OUTPUT: 2
+Enter the string: RAJKUMAR_IS_THE_BEST_ACTOR_OF_KARNATAKA
+Enter the search pattern: ACTOR
+Pattern found at index: 21
+
+OUTPUT: 3A
+Original array: 
+38 27 43 3 9 82 10 
+
+Sorted array: 
+3 9 10 27 38 43 82 
+
+OUTPUT: 3B
+Enter the number of elements in the array: 5
+Enter 5 elements: 
+2
+3
+5
+6
+4
+Sorted array: 
+2 3 4 5 6 
+
+OUTPUT: 4A
+0 - 1 	2
+1 - 2 	3
+0 - 3 	6
+1 - 4 	5
+
+OUTPUT: 4B
+
+Edge 	Weight
+A - B 	2
+B - C 	3
+B - E 	5
+A - D 	6
+Total cost of MST: 16
+
+
+OUTPUT: 5
+Original array: 12 11 13 5 6 
+Sorted array:   5 6 11 12 13 
